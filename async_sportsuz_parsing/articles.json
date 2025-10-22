@@ -4,6 +4,18 @@
         "link": "https://sports.uz/ru/news/football",
         "articles": [
             {
+                "title": "\"Андижан\" сегодня примет \"Аль-Халдию\"",
+                "description": "Начало - 18:45.",
+                "img": "https://media.sports.uz/thumbnails/68f863db24e93_220x160.jpg",
+                "link": "https://sports.uz/news/view/andijan-segodnya-primet-al-xaldiyu-22-10-2025"
+            },
+            {
+                "title": "\"Насаф\" вновь проиграл матч ЭЛЧ",
+                "description": "Команда сыграла против \"Шабаб Аль-Ахли\".",
+                "img": "https://media.sports.uz/thumbnails/68f860cea3af8_220x160.jpg",
+                "link": "https://sports.uz/news/view/nasaf-vnov-proigral-match-elch-22-10-2025"
+            },
+            {
                 "title": "Состав \"Насафа\" на матч ЭЛЧ",
                 "description": "Команда Рузикула Бердыева сыграет против \"Шабаб Аль-Ахли\"",
                 "img": "https://media.sports.uz/thumbnails/68f7ab3101bbd_220x160.jpg",
@@ -50,18 +62,6 @@
                 "description": "Начало - 20:00.",
                 "img": "https://media.sports.uz/thumbnails/68f647e1d4210_220x160.jpg",
                 "link": "https://sports.uz/news/view/sostav-sbornoy-uzbekistana-u17-na-match-protiv-venesuely-20-10-2025"
-            },
-            {
-                "title": "«Насаф» в матче против «Шабаб Аль Ахли» сыграет в синей форме",
-                "description": "Матч состоится завтра.",
-                "img": "https://media.sports.uz/thumbnails/68f64778e6858_220x160.jpg",
-                "link": "https://sports.uz/news/view/nasaf-v-matche-protiv-shabab-al-axli-sygraet-v-siney-forme-20-10-2025"
-            },
-            {
-                "title": "Сборная Узбекистана U-17 сегодня сыграет с Венесуэлой",
-                "description": "Состоится контрольный матч.",
-                "img": "https://media.sports.uz/thumbnails/68f5c85e83b8d_220x160.jpg",
-                "link": "https://sports.uz/news/view/sbornaya-uzbekistana-u-17-segodnya-sygraet-s-venesueloy-20-10-2025"
             }
         ]
     },
@@ -93,6 +93,12 @@
         "title": "Бокс",
         "link": "https://sports.uz/ru/news/boxs",
         "articles": [
+            {
+                "title": "Наши боксеры отправились на Азиатские игры",
+                "description": "С 22 по 31 октября в Бахрейне проходят юношеские Азиатские игры.",
+                "img": "https://media.sports.uz/thumbnails/68f8714e2ac23_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-boksery-otpravilis-na-aziatskie-igry-22-10-2025"
+            },
             {
                 "title": "Наш боксер выступит в полуфинале Гран-при WBC",
                 "description": "Сегодня, 19 октября, в столице Саудовской Аравии Эр-Рияде пройдут полуфинальные поединки Гран-при WBC по боксу.",
@@ -146,12 +152,6 @@
                 "description": "Сегодня руководство Министерства спорта и Национального Олимпийского комитета посетило спортивную базу «Янгиобод», расположенную в Ташкентской области.",
                 "img": "https://media.sports.uz/thumbnails/68cb9cdedd5ef_220x160.jpg",
                 "link": "https://sports.uz/news/view/obsujdyon-proekt-stroitelstva-novoy-bazy-dlya-boksyorov-17-09-2025"
-            },
-            {
-                "title": "Наши боксёры торжественно встречены в Ташкенте",
-                "description": "Сегодня рано утром в столицу вернулась сборная Узбекистана по боксу, успешно выступившая на чемпионате мира в Ливерпуле (Англия).",
-                "img": "https://media.sports.uz/thumbnails/68c8ef1d6522f_220x160.jpg",
-                "link": "https://sports.uz/news/view/nashi-boksyory-torjestvenno-vstrecheny-v-tashkente-16-09-2025"
             }
         ]
     },

@@ -83,9 +83,15 @@ def to_json(filename, data):
 
 async def main():
     data = await get_categories()
-    for category in data:
-        articles = await get_articles(category["link"])
-        category["articles"] = articles
+    tasks = [get_articles(category["link"]) for category in data]
+    res = await asyncio.gather(*tasks)
+
+    for i in range(len(data)):
+        data[i]["articles"] = res[i]
+
+    # for category in data:
+    #     articles = await get_articles(category["link"])
+    #     category["articles"] = articles
     to_json("articles.json", data)
 
 
