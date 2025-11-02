@@ -7,7 +7,7 @@ from aiogram.filters.command import CommandStart, Command
 from aiogram.types import Message, CallbackQuery, ReplyKeyboardMarkup
 from keyboard import get_kb
 
-bot = Bot(token="8212789298:AAHIqHjzv8cLw76JiB1XrmSLmluON0sT2AM")
+bot = Bot(token="")
 dp = Dispatcher()
 
 answers = {}
