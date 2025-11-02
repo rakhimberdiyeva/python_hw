@@ -1,0 +1,81 @@
+[
+  {
+    "question": "2 + 3?",
+    "answer_a": "4",
+    "answer_b": "5",
+    "answer_c": "6",
+    "answer_d": "8",
+    "correct_answer": "B"
+  },
+  {
+    "question": "9 - 5?",
+    "answer_a": "4",
+    "answer_b": "2",
+    "answer_c": "1",
+    "answer_d": "7",
+    "correct_answer": "A"
+  },
+  {
+    "question": "3 * 3?",
+    "answer_a": "4",
+    "answer_b": "10",
+    "answer_c": "9",
+    "answer_d": "3",
+    "correct_answer": "C"
+  },
+  {
+    "question": "10 / 5?",
+    "answer_a": "3",
+    "answer_b": "0",
+    "answer_c": "6",
+    "answer_d": "2",
+    "correct_answer": "D"
+  },
+  {
+    "question": "2 + 3?",
+    "answer_a": "4",
+    "answer_b": "5",
+    "answer_c": "6",
+    "answer_d": "8",
+    "correct_answer": "B"
+  },
+  {
+    "question": "6 * 2?",
+    "answer_a": "24",
+    "answer_b": "5",
+    "answer_c": "15",
+    "answer_d": "12",
+    "correct_answer": "D"
+  },
+  {
+    "question": "10 + 4?",
+    "answer_a": "14",
+    "answer_b": "5",
+    "answer_c": "6",
+    "answer_d": "18",
+    "correct_answer": "A"
+  },{
+    "question": "10 * 0?",
+    "answer_a": "10",
+    "answer_b": "15",
+    "answer_c": "100",
+    "answer_d": "0",
+    "correct_answer": "D"
+  },
+  {
+    "question": "13 + 3?",
+    "answer_a": "14",
+    "answer_b": "5",
+    "answer_c": "16",
+    "answer_d": "10",
+    "correct_answer": "C"
+  },
+  {
+    "question": "12 / 3?",
+    "answer_a": "4",
+    "answer_b": "10",
+    "answer_c": "9",
+    "answer_d": "8",
+    "correct_answer": "A"
+  }
+]
